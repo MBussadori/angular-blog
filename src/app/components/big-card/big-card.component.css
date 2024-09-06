@@ -1,0 +1,35 @@
+.container__big-card{
+    background-color: gray;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+}
+
+
+.container__big-card > a{
+   background-color: gray;
+}
+
+.container__big-card > img{
+    margin-left: 40px;
+}
+
+.container__big-card > p{
+    background-color: gray;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    font-family: 'Mona Sans';
+    font-weight: bolder;
+    font-size: 20px;
+    max-width: 250px;
+    width: 200px;
+}
+
+.container__big-card > p > a{
+    background-color: gray;
+}
+
+.container__big-card > img {
+    max-width: 300px;
+    max-height: 168px;
+}

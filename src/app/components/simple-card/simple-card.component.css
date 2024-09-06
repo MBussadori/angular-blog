@@ -1,0 +1,21 @@
+.date__simple-card{
+    color: gray;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.manchete__simple-card {
+    color: gray;
+    max-width: 250px;
+    width: 200px;
+    margin-bottom: 10px;
+    font-weight: bold;
+
+}
+
+.button_read-more {
+    border: none;
+    margin-bottom: 20px;
+    font-weight: bold;
+
+}

@@ -1,0 +1,23 @@
+#container-top{
+    background-color: gray;
+    color: black;
+    height: 100%; /* Ocupe 100% da altura da viewport */  
+
+}
+
+
+#container-top > h1 {
+    margin-top: 50px;
+    margin-left: 40px;
+    font-size: 70px;
+    font-family: 'Mona San';
+    background-color: gray;
+}
+
+#container-top > p{
+    font-family: 'Mona San';
+    font-weight: bold;
+    background-color: gray;
+    margin-left: 40px;
+}
+

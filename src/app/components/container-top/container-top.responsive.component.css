@@ -1,0 +1,8 @@
+@media screen and (max-width:600px) {
+    #container-top{
+        background-color: gray;
+        height: 30px;
+        color: black; 
+        font-size: 10px;
+    }
+}

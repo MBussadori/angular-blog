@@ -1,0 +1,27 @@
+.container__bottom{
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+.container__bottom > h1{
+    display: flex;
+    flex-direction: column;
+}
+
+#news-tittle{ 
+    color: gray;
+}
+
+
+#container__simple-card {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.simple-card__article {
+    flex: 1 30%;
+}
